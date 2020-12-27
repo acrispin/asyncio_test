@@ -1,0 +1,5 @@
+aioify==0.3.2
+awaits==0.0.1
+module-wrapper==0.2.4
+poetry-version==0.1.5
+tomlkit==0.5.11
